@@ -1,6 +1,6 @@
 # #snakeeye-ball movement on mouse move
 
-## original code wa eye movement. tweaked some color and  added border to eye  and renamed to snake eye.
+## original code exercise was called eye movement. tweaked some color and  added border to eye  and renamed to snake eye.
  ## we learned how to replicate html tag to create two pics on page.
   ##connected the tag with getElementById in JS.
   ##give x and y axis to the eyeball
