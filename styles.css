@@ -1,3 +1,7 @@
+
+
+/* eye movement css */
+
 body {
     background-image: url('close-up-various-types-mold-nature.jpg');
     background-repeat: no-repeat;
@@ -7,29 +11,30 @@ body {
 }
 
 .eyes {
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  width: 100%;
-  text-align: center;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 100%;
+    text-align: center;
 }
+
 .eye {
-  width: 240px;
-  height: 120px;
-  background: #fff;
-  display: inline-block;
-  margin: 40px;
-  border: 20px solid yellow
-  border-radius: 50%;
-  position: relative;
-  overflow: hidden;
+    width: 240px;
+    height: 120px;
+    background: #fff;
+    display: inline-block;
+    margin: 55px;
+    border-radius: 50%;
+    position: relative;
+    overflow: hidden;
 }
+
 .ball {
     width: 20px;
     height: 80px;
     background: #000;
     position: absolute;
-    top: 200%;
+    top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     border: 20px solid rgb(95, 95, 10);
