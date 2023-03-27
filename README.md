@@ -1,8 +1,8 @@
 # #snakeeye-ball movement on mouse move
 
 ## original coding exercise was called eye movement. 
-## I used css code for backgroud image from [w3schools](https://www.w3schools.com/cssref/pr_background-image.php) and  added border to eye  and renamed to snake eye.
-##background image  is from ("http://www.freepik.com" ) (I already applied future improvements)
+## I used css code for backgroud image from [w3schools](https://www.w3schools.com/cssref/pr_background-image.php) and  added border to eye  and renamed to snake eye.  (I already applied future improvements)
+##background image  is from ("http://www.freepik.com" )
 
  ## learned how to replicate html tag to create two pics on page.
   ##connected the tag with getElementById in JS.
